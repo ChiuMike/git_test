@@ -7,3 +7,4 @@ gl.clear(gl.COLOR_BUFFER_BIT);
 console.log("hello...")
 console.log("sssss")
 console.log("111111");
+console.log("222222");
